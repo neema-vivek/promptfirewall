@@ -1,5 +1,4 @@
 # 🛡️ Prompt Injection Firewall
-# 🛡️ Prompt Injection Firewall
 
 A firewall that intercepts content **before** it reaches an LLM, detects and
 neutralizes prompt-injection attacks, and lets legitimate content through with
